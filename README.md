@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning in SoftUni and just started Web Core. I am also doing some React tutorials on my own<br>🎯 Goals: Learn everything there is to know about Web and App Development<br>🎲 Fun fact: I used to work in the Film Industry so I know some celebrities 👀</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JavaScript programming, as well as doing some React tutorials on my own<br>🎯 Goals: Learn everything there is to know about Web and App Development<br>🎲 Fun fact: I used to work in the Film Industry so I know some celebrities 👀</p>
 
 ###
 
