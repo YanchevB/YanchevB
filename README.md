@@ -23,8 +23,8 @@
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40" alt="css logo"/>
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="html logo"/>
-  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="45" alt="html logo"/>
+  <img width="15"/>
 </div>
 
 ###
