@@ -23,7 +23,7 @@
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40" alt="css logo"/>
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png?20110131171049" height="40" alt="html logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png?20110131171049](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html logo"/>
   <img width="12"/>
 </div>
 
