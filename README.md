@@ -21,6 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html logo" />
 </div>
 
+<h2 align="left">GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yanchevb&show_icons=true&theme=tokyonight" height="170" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanchevb&layout=compact&theme=tokyonight" height="170" alt="languages card" />
+</div>
+
 <br />
 
 <div align="center">
