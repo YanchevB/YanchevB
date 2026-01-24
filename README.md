@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://www.codewars.com/users/yanchevb">
+        <a href="https://www.codewars.com/users/YanchevB">
           <img src="https://www.codewars.com/users/YanchevB/badges/large" alt="Codewars Badge" />
         </a>
       </td>
