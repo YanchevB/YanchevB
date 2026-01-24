@@ -21,15 +21,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html logo" />
 </div>
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">Statistics & Performance</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanchevb&show_icons=true&theme=tokyonight" height="170" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanchevb&layout=compact&theme=tokyonight" height="170" alt="languages card" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="animated developer" />
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/yanchevb">
+          <img src="https://github-readme-stats.vercel.app/api?username=yanchevb&show_icons=true&theme=tokyonight" height="175" alt="stats card" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yanchevb">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanchevb&layout=compact&theme=tokyonight" height="175" alt="languages card" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://www.codewars.com/users/yanchevb">
+          <img src="https://www.codewars.com/users/YanchevB/badges/large" alt="Codewars Badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
