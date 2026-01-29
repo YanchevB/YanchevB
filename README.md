@@ -28,7 +28,7 @@
     <tr>
       <td>
         <a href="https://github.com/yanchevb">
-          <img src="https://github-readme-stats.vercel.app/api?username=yanchevb&show_icons=true&theme=tokyonight" height="175" alt="stats card" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=yanchevb&show_icons=true&theme=tokyonight" height="175" alt="stats card" />
         </a>
       </td>
       <td>
