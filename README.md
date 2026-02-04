@@ -33,7 +33,7 @@
       </td>
       <td>
         <a href="https://github.com/yanchevb">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanchevb&layout=compact&theme=tokyonight" height="175" alt="languages card" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yanchevb&layout=compact&theme=tokyonight" height="175" alt="languages card" />
         </a>
       </td>
     </tr>
