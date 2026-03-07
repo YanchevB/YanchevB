@@ -11,7 +11,7 @@
   🎲 Fun fact: I used to work in the Film Industry so I know some celebrities 👀
 </p>
 
-## I code with
+## Tech Stack
 
 <div align="left">
   <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
