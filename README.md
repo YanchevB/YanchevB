@@ -1,8 +1,8 @@
-<h1 align="left">Hey there 👋 What's up?</h1>
+# Hey there 👋 What's up?
 
 <p align="left">My name is Boyan Yanchev and I'm a novice in Front-End Development from Sofia, Bulgaria</p>
 
-<h2 align="left">About me</h2>
+## About me
 
 <p align="left">
   ✨ Creating bugs since 2024<br>
@@ -11,17 +11,19 @@
   🎲 Fun fact: I used to work in the Film Industry so I know some celebrities 👀
 </p>
 
-<h2 align="left">I code with</h2>
+## I code with
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html logo" />
+  <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+  <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+  <img align="left" alt="tailwind" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="left" alt="react" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 </div>
 
-<h2 align="left">Statistics & Performance</h2>
+<br><br>
+
+## Statistics & Performance
 
 <div align="left">
   <table border="0">
