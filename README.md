@@ -6,9 +6,15 @@
 
 <p align="left">
   ✨ Creating bugs since 2024<br>
-  📚 I'm currently learning Typescript, as well as doing some React tutorials on my own<br>
+  📚 I'm currently awaiting approval for the Front-End Mentoring program at EPAM Systems, as well as doing some React and Typescript tutorials on my own<br>
   🎯 Goals: Learn everything there is to know about Web and App Development<br>
   🎲 Fun fact: I used to work in the Film Industry so I know some celebrities 👀
+</p>
+
+## Employment status
+
+<p align="left"> 
+  🧳 Open for work and actively looking for a Junior position in Sofia, Bulgaria. 
 </p>
 
 ## Tech Stack
