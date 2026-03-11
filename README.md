@@ -14,7 +14,7 @@
 ## Employment status
 
 <p align="left"> 
-  🧳 Open for work and actively looking for a Junior position in Sofia, Bulgaria. 
+  🧳 Open for work and actively looking for a Junior position in Sofia, Bulgaria
 </p>
 
 ## Tech Stack
