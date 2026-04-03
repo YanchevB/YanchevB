@@ -6,7 +6,7 @@
 
 <p align="left">
   ✨ Creating bugs since 2024<br>
-  📚 I'm currently awaiting approval for the Front-End Mentoring program at EPAM Systems, as well as doing some React and Typescript tutorials on my own<br>
+  📚 I'm currently learning JavaScript, as well as doing some React and Typescript tutorials on my own<br>
   🎯 Goals: Learn everything there is to know about Web and App Development<br>
   🎲 Fun fact: I used to work in the Film Industry so I know some celebrities 👀
 </p>
