@@ -6,7 +6,7 @@
 
 <p align="left">
   ✨ Creating bugs since 2024<br>
-  📚 I'm currently enrolled in EPAM's Front-End Specialization training program with Angular<br>
+  📚 I'm currently studying PostgreSQL and Back-End development<br>
   🎯 Goals: Learn everything there is to know about Web and App Development, as well as new emerging AI automation tools and technologies<br>
   🎲 Fun fact: I used to work in the Film Industry so I know some celebrities 👀
 </p>
