@@ -27,6 +27,7 @@
   <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" />
   <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
   <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+  <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 </div>
 
 <br><br>
